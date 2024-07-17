@@ -102,9 +102,9 @@
     user-select: none;
     font-size: 8rem;
     color: rgb(231, 231, 231);
-    font-weight: 800;
-    bottom: -17%;
-    left: -5%;
+    font-weight: bold;
+    bottom: -22%;
+    left: -10%;
     transition: all 3s;
 }
 
